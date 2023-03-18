@@ -9,3 +9,6 @@ Principais tópicos:
 2.1) Na programação clássica, fornecemos os dados e as regras e obtemos os resultados. No ML, fornecemos os dados e exemplos de resultados e obtemos as regras;
 2.2) Definição de inteligência artificial: Sistemas computacionais que podem aprender e raciocinar com autonomia;
 2.3) Machine learning (ML) ou aprendizado automático: o desempenho em uma tarefa aumenta com a experiência extraída de novos dados.
+2.4) Aprendizado supervisionado: conhecemos exemplos daquilo que queremos prever (rótulo ou alvo). Mais custoso porém maior precisão;
+2.5) Aprendizado não supervisionado: Não temos um alvo para guiar o aprendizado, então procuramos agrupar (cluster) dados similares. Agrupamentos: Clustering: k-means, hierárquico ou regras de associação (a priori);
+2.6) Por reforço (intermediário entre supervisionado e não supervisionado): periodicamente, recebemos uma recompensa quanto à qualidade das ações passadas. Ex: placar de um jogo aumenta depois de certo grupo de jogadas.
