@@ -1,0 +1,5 @@
+Estudos para Java.
+Principais tópicos:
+1) Java surgiu em 1995 e é uma linguagem orientada a objetos. Para entendê-la melhor, é indicado entender primeiramente o paradigma de orientação a objetos;
+2) É uma linguagem compilada e interpretada. No momento da compilação, é gerado um arquivo bytecode (.class), o qual é interpretado pela JVM (Java Virtual Machine);
+3) IDE é um ambiente de desenvolvimento integrado, onde se escreve os códigos. Os pricipais são: Eclipse, IntelliJ e VS Code;
