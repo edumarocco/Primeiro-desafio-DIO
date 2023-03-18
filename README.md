@@ -5,4 +5,4 @@
 # Links Úteis
 [Link para download do GIT](https://git-scm.com/downloads)
 
-[Link para a DIO](dio.me)
+[Link para a DIO]([dio.me](https://www.dio.me/))
