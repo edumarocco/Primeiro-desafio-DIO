@@ -1,6 +1,11 @@
-Estudos para Java.
+1)Estudos para Java
 Principais tópicos:
-1) Java surgiu em 1995 e é uma linguagem orientada a objetos. Para entendê-la melhor, é indicado entender primeiramente o paradigma de orientação a objetos;
-2) É uma linguagem compilada e interpretada. No momento da compilação, é gerado um arquivo bytecode (.class), o qual é interpretado pela JVM (Java Virtual Machine);
-3) IDE é um ambiente de desenvolvimento integrado, onde se escreve os códigos. Os pricipais são: Eclipse, IntelliJ e VS Code;
-4) O JRE, Java Runtime Environment, consiste no Java Virtual Machine (JVM), nas classes centrais e bibliotecas de suporte da plataforma Java
+1.1) Java surgiu em 1995 e é uma linguagem orientada a objetos. Para entendê-la melhor, é indicado entender primeiramente o paradigma de orientação a objetos;
+1.2) É uma linguagem compilada e interpretada. No momento da compilação, é gerado um arquivo bytecode (.class), o qual é interpretado pela JVM (Java Virtual Machine);
+1.3) IDE é um ambiente de desenvolvimento integrado, onde se escreve os códigos. Os pricipais são: Eclipse, IntelliJ e VS Code;
+1.4) O JRE, Java Runtime Environment, consiste no Java Virtual Machine (JVM), nas classes centrais e bibliotecas de suporte da plataforma Java
+2) Machine Learning
+Principais tópicos:
+2.1) Na programação clássica, fornecemos os dados e as regras e obtemos os resultados. No ML, fornecemos os dados e exemplos de resultados e obtemos as regras;
+2.2) Definição de inteligência artificial: Sistemas computacionais que podem aprender e raciocinar com autonomia;
+2.3) Machine learning (ML) ou aprendizado automático: o desempenho em uma tarefa aumenta com a experiência extraída de novos dados.
