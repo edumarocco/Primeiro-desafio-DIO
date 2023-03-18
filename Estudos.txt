@@ -1,0 +1,3 @@
+Matérias estudadas hoje:
+1) Git/Github para o DIO;
+2) Ciência de dados para o concurso BB.
