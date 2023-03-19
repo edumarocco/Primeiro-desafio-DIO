@@ -10,4 +10,7 @@ Aula de hoje:
 2.1.1.3) Precisão (proporção de previsões positivas corretas) = verdadeiro positivo/(verdadeiro positivo + falso positivo)
 *** O ideal sempre em uma matriz de confusão é maximizar os valores da diagonal principal, pois são os acertos entre valores previstos e reais.
 2.2) Regressão: A variável objetivo (target) tem uma infinidade de possíveis valores (geralmente é numérica).
-
+Principais métricas:
+2.2.1) RMSE: Erro quadrático médio: Raiz_quadrada(média((previsto-observado)^2))
+2.2.2) R-quadrado (R2): representa a proporção da variabilidade dos dados explicada pelo modelo 0<R2<1
+***Apesar das diferenças apontadas entre classificação e regressão, é frequentemente possível converter uma tarefa de um tipo para o outro, modificando a representação da variável target.
