@@ -2,3 +2,12 @@ Aula de hoje:
 1) IDE'S Java:
 1.1) Eclipse: criando o 1º projeto, atalhos, passando os projetos para o GitHub, Debug;
 1.2) IntelliJ: Escrevendo o Hello World!!!, criando classes, construtores, getters e setters;
+2) Algoritmos supervisionados de classificação e regressão. Diferença entre eles.
+2.1) Classificação: A variável objetivo (target) é categórica, ou seja, tem um número limitado de possíveis valores;
+2.1.1) Matriz de confusão: Matriz de número de ocorrências. Cada linha representa ocorrências da classe verdadeira e cada coluna representa ocorrências da classe predita.
+2.1.1.1) Acurácia = (verdadeiro positivo + verdadeiro negativo)/total de ocorrências
+2.1.1.2) Sensibilidade/recall (proporção de positivos corretos) = verdadeiro positivo/(verdadeiro positivo + falso negativo)
+2.1.1.3) Precisão (proporção de previsões positivas corretas) = verdadeiro positivo/(verdadeiro positivo + falso positivo)
+*** O ideal sempre em uma matriz de confusão é maximizar os valores da diagonal principal, pois são os acertos entre valores previstos e reais.
+2.2) Regressão: A variável objetivo (target) tem uma infinidade de possíveis valores (geralmente é numérica).
+
