@@ -1,4 +1,4 @@
-Aula Java.
+1) Aula Java.
 Atalho ctrl + alt + L = identar o código;
 Atalho ctrl + D = duplica a linha;
 Atalho ctrl + Y = deleta a linha;
@@ -6,3 +6,8 @@ ctrl + shift + seta = muda a linha de lugar;
 main ou psvm cria um main;
 sout printa na tela;
 Outros atalhos: http://www.basef.com.br/index.php/Atalhos_do_IntelliJ_Idea
+2) Ciência de dados.
+Modelo preditivo abstrato: Define como relacionar as variáveis de entrada (independentes) com o resultado esperado (variável dependente ou target);
+Diferentes modelos geram formas matematicamente muito diferentes de construir a relação entre as variáveis de entrada e saída, tornando-os assim capazes de captar padrões estatísticos também diferentes;
+Em regra, é preciso realizar experimentos computacionais, avaliando o desempenho de modelos de tipos diferentes para descobrir qual o mais adequado à uma tarefa e dados específicos;
+Cada tipo de modelo tem suas características, lógica de funcionamento, pontos fortes e fracos. Não é preciso ser capaz de reimplementar um algoritmo do zero para entender suas propriedades fundamentais.
