@@ -1,0 +1,6 @@
+Aula Java.
+Atalho ctrl + alt + L = identar o código;
+Atalho ctrl + D = duplica a linha;
+Atalho ctrl + Y = deleta a linha;
+ctrl + shift + seta = muda a linha de lugar;
+Outros atalhos: http://www.basef.com.br/index.php/Atalhos_do_IntelliJ_Idea
