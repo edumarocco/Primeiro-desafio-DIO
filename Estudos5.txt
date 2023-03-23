@@ -7,6 +7,6 @@ Em Java, temos 8 tipos primitivos de variáveis:
 - int;
 - long;
 - boolean;
-- char;
+- char (representa um único caractere. EX: sexo = 'M';
 - float;
 - double.
