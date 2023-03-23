@@ -1,0 +1,2 @@
+Operadores Java:
+O "+" quando usado com números, vai somar. Quando é usado com strings, vai concatenar. Quando é usado com números e strings na mesma expressão, quando detectar a string, vai concatenar tudo depois dela. Antes da string, vai somar.
