@@ -1,0 +1,12 @@
+Aula variáveis Java:
+Java é fortemente tipada;
+Para transformar uma variável em constante, deve-se inserir a expressão final antes do tipo da variável;
+Em Java, temos 8 tipos primitivos de variáveis:
+- byte;
+- short;
+- int;
+- long;
+- boolean;
+- char;
+- float;
+- double.
