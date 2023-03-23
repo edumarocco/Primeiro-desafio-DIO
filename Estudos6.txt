@@ -4,8 +4,7 @@ O "+" quando usado com números, vai somar. Quando é usado com strings, vai con
 Pós-incremento: sout(numero++) => vai imprimir o número sem o incremento;
 Pré-incremento: sout(++numero) => vai imprimir o número já com o incremento.
 Operador ternário (?:): É um if resumido: Ex: int a = 5; int b = 6; String resultado = a==b ? "verdadeiro" : "falso";
-== verifica se uma variável é igual à outra, independentemente do tipo de dados da variável;
-=== é usado para a comparação entre duas variáveis, mas isso irá verificar o tipo estrito, o que significa que ele irá verificar o tipo de dados e comparar dois valores;
+== verifica se uma variável é igual à outra;
 != verifica se uma variável é diferente da outra;
 ***Método equals verifica se objetos são iguais;
 && operador lógico E;
