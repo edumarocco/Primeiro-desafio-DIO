@@ -9,3 +9,18 @@ Operador ternário (?:): É um if resumido: Ex: int a = 5; int b = 6; String res
 ***Método equals verifica se objetos são iguais;
 && operador lógico E;
 || operador lógico OU;
+Uma classe é definida por atributos e métodos. Já vimos que atributos são, em sua grande maioria, variáveis de diferentes tipos e valores. Os métodos, por sua vez, correspondem a funções ou sub-rotinas disponíveis dentro de nossas classes.
+Métodos: Deve ser nomeado como verbo
+Seguir o padrão camelCase (Todas as letras minúsculas com a exceção da primeira letra da segunda palavra).
+ATENÇÃO! Não existe em Java o conceito de métodos globais. Todos os métodos devem SEMPRE ser definidos dentro de uma classe.
+//alguns equívocos estruturais
+	public void validar(){
+		//este método deveria retornar algum valor
+		//no caso boolean (true ou false)
+	}
+  // este método não pode ser visto por outras classes no projeto
+	private void metodoPrivado(){}
+	public void imprimir(String texto){
+		//LOGICA - FINALIDADE DO MÉTODO
+		//AQUI NÃO PRECISA DO RETURN
+		//POIS NÃO SERÁ RETORNADO NENHUM RESULTADO
