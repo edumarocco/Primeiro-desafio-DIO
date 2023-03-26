@@ -4,3 +4,4 @@ o que a fórmula quer dizer: posterior = prévia*verossimilhança/evidência;
 P(A|B): probabilidade condicional de A dado que B aconteceu;
 Cada nova informação sobre um objeto altera a probabilidade de que ele seja de alguma classe; essas alterações de probabilidade refletem frequências de ocorrências dos atributos nos dados de treinamento e hipótese sobre a sua distribuição de valores.
 Rápido e escalável, funciona bem tanto com poucos ou com muitos dados.
+É não supervisionado.
