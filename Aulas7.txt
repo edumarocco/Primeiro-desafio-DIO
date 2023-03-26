@@ -1,3 +1,5 @@
 Naive-Bayes: Classificador probabilístico baseado no teorema de Bayes, com hipótese forte (ingênua) de independência entre os seus atributos.
 Teorema de bayes: P(A|B) = P(B|A)*P(A)/P(B);
+o que a fórmula quer dizer: posterior = prévia*verossimilhança/evidência;
 P(A|B): probabilidade condicional de A dado que B aconteceu;
+Cada nova informação sobre um objeto altera a probabilidade de que ele seja de alguma classe; essas alterações de probabilidade refletem frequências de ocorrências dos atributos nos dados de treinamento e hipótese sobre a sua distribuição de valores.
