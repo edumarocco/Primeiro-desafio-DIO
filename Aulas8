@@ -1,3 +1,4 @@
 Agrupamento (clustering): Não possuímos rótulo/target que possa orientar o treinamento de um modelo preditivo (não supervisionado).
 Cada observação será atribuída a um grupo formado de outras observações mais similares e será mais diferente das observações dos demais grupos.
 Grande diversidade de algoritmos para realizar esses agrupamentos, gerando resultados muito diferentes.
+K-means: Selecione pontos (aleatoriamente), como centróides iniciais. Repita até que os centróides se tornem estáveis. Atribua cada observação ao cluster do centróide mais próximo. Desloque o centróide para a média dos pontos do cluster.
