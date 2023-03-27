@@ -1,1 +1,3 @@
 Agrupamento (clustering): Não possuímos rótulo/target que possa orientar o treinamento de um modelo preditivo (não supervisionado).
+Cada observação será atribuída a um grupo formado de outras observações mais similares e será mais diferente das observações dos demais grupos.
+Grande diversidade de algoritmos para realizar esses agrupamentos, gerando resultados muito diferentes.
