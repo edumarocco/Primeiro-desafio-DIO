@@ -1,0 +1,6 @@
+Redução da dimensionalidade:
+Dados com muitas variáveis são difíceis de representar em gráficos, e exigem muito dos recursos computacionais.
+- Dados com menor dimensionalidade levam a modelos mais simples que podem generalizar melhor: menor risco de overfit;
+- Simplifica a representação gráfica de dados de alta dimensionalidade por projeção em 2 ou 3 dimensões, procurando preservar o máximo das características dos dados originais de múltiplas dimensões.
+- Dados mais simples, com menor dimensionalidade, requerem menos recursos computacionais para treinar modelos;
+- Recursos de dimensionalidade limita efeitos de multicolinearidade das variáveis originais.
