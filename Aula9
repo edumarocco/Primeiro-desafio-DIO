@@ -4,3 +4,10 @@ Dados com muitas variáveis são difíceis de representar em gráficos, e exigem
 - Simplifica a representação gráfica de dados de alta dimensionalidade por projeção em 2 ou 3 dimensões, procurando preservar o máximo das características dos dados originais de múltiplas dimensões.
 - Dados mais simples, com menor dimensionalidade, requerem menos recursos computacionais para treinar modelos;
 - Recursos de dimensionalidade limita efeitos de multicolinearidade das variáveis originais.
+Tipos de redução:
+- PCA: Análise de componentes principais:
+* Calcula-se a covariância de cada coluna com todas as demais.
+* Decompõe-se a matriz de covariância em seus autovetores que permitem expressar as propriedades essenciais da matriz em combinações lineares dos dados originais, numa sequência de vetores de importância decrescente e ortogonais entre si.
+* Propriedade essencial do PCA: gera novos eixos para representar os dados, em que a máxima variabilidade dos dados aparece na primeira dimensão. Cada dimensão seguinte é ortogonal às anteriores e representam componentes cada vez menores da variabilidade dos dados.
+-tSNE:
+* Representação não linear probabilística em que pontos próximos em um espaço de alta dimensão tendem a ficar próximos em um espaço de baixa dimensão.
